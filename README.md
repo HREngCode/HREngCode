@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HREngCode
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Django, and React
 - 💞️ I’m looking to collaborate on coding practices
 - 📫 You can reach me by emailing strssales@gmail.com or check out my profile at https://www.linkedin.com/in/chadsailors/
 
